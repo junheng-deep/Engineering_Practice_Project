@@ -1,4 +1,4 @@
-# Engineering_Practice
+# Engineering_Practice_Project
 
 工程实践项目《校园信息智能查询智能体》
 
