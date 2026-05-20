@@ -8,8 +8,8 @@ CAS_URL = "https://sso.cuit.edu.cn"
 DEBUG = True
 
 if DEBUG:
-    STUDENT_ID = "2023132026" # 账号
-    PASSWORD = "@Qwer15984186279" # 密码
+    STUDENT_ID = "xxx" # 账号
+    PASSWORD = "xxx" # 密码
 else:
     STUDENT_ID = os.getenv("STUDENT_ID", "")
     PASSWORD = os.getenv("PASSWORD", "")
